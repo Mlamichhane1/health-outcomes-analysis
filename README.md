@@ -62,7 +62,7 @@ health-outcomes-analysis/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/health-outcomes-analysis.git
+git clone https://github.com/Mlamichhane1/health-outcomes-analysis.git
 cd health-outcomes-analysis
 ```
 
@@ -93,7 +93,7 @@ python src/db_loader.py
 > *Screenshot coming soon*
 
 ### Tableau — Storytelling Visualization
-> 🔗 [View on Tableau Public](https://public.tableau.com/YOUR_LINK)
+> 🔗 Tableau Public link coming soon
 
 ---
 
@@ -113,3 +113,10 @@ python src/db_loader.py
 - [U.S. Census Bureau — Income Data](https://www.census.gov/topics/income-poverty/income.html)
 - Chetty, R. et al. (2016). *The Association Between Income and Life Expectancy in the United States*. JAMA.
 - Course: Using Big Data to Solve Economic and Social Problems (Lecture 10: Health Outcomes and Income)
+
+---
+
+## 👤 Author
+
+**Madhav Lamichhane**
+[LinkedIn](https://www.linkedin.com/in/madhav-lamichhane-33304b264/) | [GitHub](https://github.com/Mlamichhane1)
