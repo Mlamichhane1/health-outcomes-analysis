@@ -112,7 +112,7 @@ python src/db_loader.py
 - [CDC WONDER Database](https://wonder.cdc.gov/)
 - [U.S. Census Bureau — Income Data](https://www.census.gov/topics/income-poverty/income.html)
 - Chetty, R. et al. (2016). *The Association Between Income and Life Expectancy in the United States*. JAMA.
-- Course: Using Big Data to Solve Economic and Social Problems (Lecture 10: Health Outcomes and Income)
+- Course: Using Big Data to Solve Economic and Social Problems
 
 ---
 
