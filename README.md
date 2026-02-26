@@ -103,7 +103,7 @@ python src/db_loader.py
 - **State X** has the largest income-health gap
 - The relationship between income and life expectancy has **grown stronger since XXXX**
 
-*(Update these after your analysis!)*
+*(Update these after analysis!)*
 
 ---
 
